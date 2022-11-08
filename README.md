@@ -12,7 +12,9 @@ Estou no 3º semestre de Engenharia de Software na Universidade de Brasília(UnB
    <img  src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img  align="rigth" src="https://discord.com/channels/1039399081233088573/1039399082084544634/1039399146886549595" />
+  <img src="https://user-images.githubusercontent.com/85856457/200477373-ddfb2313-d968-41e6-a3a8-3f3d7d8f8627.png" width="150px" align="right" borderRadius="100px" />  
+
+
 </div>
 
 
