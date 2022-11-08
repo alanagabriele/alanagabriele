@@ -4,7 +4,7 @@
 
 ##
 
-📌Tenho 19 anos e estou no 3º semestre de Engenharia de Software na Universidade de Brasília(UnB) e concluindo análise e desenvolvimento de sistemas. 
+📌Tenho 19 anos e estou no 3º semestre de Engenharia de Software na Universidade de Brasília e concluindo Análise e Desenvolvimento de Sistemas. <br>
 📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
 
 #####  Estudando atualmente:
