@@ -5,7 +5,7 @@
 ##
 
 📌Cursando o 3º semestre de Engenharia de Software na Universidade de Brasília(UnB). <br>
-📌Concluindo Análise e Desenvolvimento de Sistemas. <br>
+📌Formada em Análise e Desenvolvimento de Sistemas. <br>
 📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
 
 #####  Estudando atualmente:
