@@ -4,7 +4,7 @@
 
 ##
 
-📌Cursando o 4º semestre de Engenharia de Software na Universidade de Brasília - (UnB). <br>
+📌Cursando o 5º semestre de Engenharia de Software na Universidade de Brasília - (UnB). <br>
 📌Formada em Análise e Desenvolvimento de Sistemas. <br>
 📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
 
