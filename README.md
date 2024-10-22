@@ -4,7 +4,7 @@
 
 ##
 
-📌Cursando o 6º semestre de Engenharia de Software na Universidade de Brasília - (UnB). <br>
+📌Cursando o 7º semestre de Engenharia de Software na Universidade de Brasília - (UnB). <br>
 📌Formada em Análise e Desenvolvimento de Sistemas. <br>
 📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
 
@@ -13,7 +13,6 @@
 <div>
    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
    <img  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-   <img  src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
     <img  src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
    <img  src=" https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
    <img  src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
