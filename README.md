@@ -4,7 +4,7 @@
 
 ##
 📌Atuando como desenvolvedora fullstack pleno  <br>
-📌Cursando o 9º semestre de Engenharia de Software na Universidade de Brasília - (UnB). <br>
+📌Cursando Engenharia de Software na Universidade de Brasília - (UnB). <br>
 📌Formada em Análise e Desenvolvimento de Sistemas. <br>
 📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
 
