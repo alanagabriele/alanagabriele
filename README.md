@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Bem-vindo(a)+ao+meu+repositório!;:%29)](https://git.io/typing-svg)
 
 ##
-📌Atuando como desenvolvedora fullstack pleno  <br>
+📌Atuando como desenvolvedora Fullstack  <br>
 📌Cursando Engenharia de Software na Universidade de Brasília - (UnB). <br>
 📌Formada em Análise e Desenvolvimento de Sistemas. <br>
 📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
